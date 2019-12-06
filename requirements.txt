@@ -1,5 +1,4 @@
 boto==2.49.0
-Cactus==3.3.3
 certifi==2019.11.28
 colorama==0.4.1
 colorlog==4.0.2
